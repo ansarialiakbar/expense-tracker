@@ -39,8 +39,8 @@ The Expense Tracker is a full-stack web application for managing employee expens
 - **Backend**: Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, multer, csv-writer
 
 - **Deployment**:
-  - Frontend: [Netlify](https://your-expense-tracker.netlify.app)
-  - Backend: [Render](https://your-expense-tracker-backend.onrender.com)
+  - Frontend: [Netlify](https://expense-tracker-netlify-app.netlify.app/login)
+  - Backend: [Render](https://expense-tracker-backend-htcl.onrender.com/)
 
 
 
